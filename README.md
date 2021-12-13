@@ -1,1 +1,2 @@
-# PAYMENT_INTEGRATION_GATEWAY
+# Payment-Integration-Using-Razor-Pay
+Razor Pay In Testing Mode
